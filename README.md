@@ -6,3 +6,4 @@
 我的博客：[blog](https://yxxbc.github.io/)
 
 
+[![Tokens Stats](https://tokens.ci/api/embed/yxxbc/svg?view=3d&theme=light&sort=cost)](https://tokens.ci/u/yxxbc)

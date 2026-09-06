@@ -5,4 +5,3 @@
 
 我的博客：[blog](https://yxxbc.github.io/)
 
-[![Tokens Stats](https://tokens.ci/api/embed/yxxbc/svg?theme=light&template=detailed&rank=total&tokens=full&cost=full)](https://tokens.ci/u/yxxbc)

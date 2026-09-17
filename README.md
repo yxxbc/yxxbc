@@ -7,6 +7,14 @@
 
 📝 博客：[yxxbc.github.io](https://yxxbc.github.io/)
 
+#### 一起折腾的
+
+<a href="https://github.com/yxxbc" title="Black Cat"><img src="assets/yxxbc.png" width="64" height="64" alt="Black Cat"></a>
+<a href="https://github.com/GQYbot" title="顾清影"><img src="assets/gqybot.png" width="64" height="64" alt="顾清影"></a>
+<a href="https://github.com/claude" title="Claude"><img src="assets/claude.png" width="64" height="64" alt="Claude"></a>
+
+<sub>我 · 顾清影 · Claude</sub>
+
 ---
 
 #### 我在做的东西

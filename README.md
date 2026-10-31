@@ -30,6 +30,29 @@ I love version updates. Every iteration feels like a rebirth.
 
 ---
 
+#### Gallery
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <a href="https://cnb.cool/yxxbc/images/-/git/raw/main/portraits/08-蕾丝面纱.png" title="蕾丝面纱 · Lace Veil">
+        <img src="https://cnb.cool/yxxbc/images/-/git/raw/main/thumbs/portraits/08-蕾丝面纱.jpg" height="230" alt="Lace Veil">
+      </a>
+      <br>
+      <sub><b>08 · 蕾丝面纱</b><br>Lace Veil</sub>
+    </td>
+    <td align="center" width="260">
+      <a href="https://cnb.cool/yxxbc/images/-/git/raw/main/portraits/09-蕾丝百合-1254.png" title="蕾丝百合 · Lace Lily">
+        <img src="https://cnb.cool/yxxbc/images/-/git/raw/main/thumbs/portraits/09-蕾丝百合-1254.jpg" height="230" alt="Lace Lily">
+      </a>
+      <br>
+      <sub><b>09 · 蕾丝百合</b><br>Lace Lily</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>More portraits &amp; wallpapers in <a href="https://cnb.cool/yxxbc/images">the gallery</a></sub></p>
+
 #### Toolbox
 
 <p align="center">

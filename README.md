@@ -22,26 +22,5 @@ I love version updates. Every iteration feels like a rebirth.
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/yxxbc" title="Black Cat"><img src="assets/yxxbc.png" width="64" height="64" alt="Black Cat"></a>
-  <a href="https://github.com/GQYbot" title="GQYbot"><img src="assets/gqybot.png" width="64" height="64" alt="GQYbot"></a>
-  <a href="https://github.com/claude" title="Claude"><img src="assets/claude.png" width="64" height="64" alt="Claude"></a>
-  <br>
-  <sub>Tinkering together · Me · GQYbot · Claude</sub>
-</p>
 
 ---
-
-#### Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,python,swift,bash,apple,linux,windows,git,vscode&perline=10" alt="Rust TypeScript Python Swift Bash macOS Linux Windows Git VS Code">
-</p>
-
-<p align="center"><sub>Exploring: AI Agent · MCP · Terminal ricing · Tiling window managers</sub></p>
-
-#### Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/5B8DEF/yxxbc" alt="Contribution heatmap">
-</p>

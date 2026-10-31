@@ -22,5 +22,3 @@ I love version updates. Every iteration feels like a rebirth.
 </tr>
 </table>
 
-
----

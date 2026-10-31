@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td valign="middle">
+<img src="assets/lily-animated.svg" width="300" height="300" align="right" alt="Lace Lily">
 
 ### Hi, I'm Black Cat 🐈‍⬛
 
@@ -14,11 +12,3 @@ I love version updates. Every iteration feels like a rebirth.
 <a href="https://yxxbc.github.io/" title="Black Cat's Blog">
   <img src="assets/blog-card.svg" width="440" height="104" alt="Black Cat's Blog — 技术折腾与日常思考">
 </a>
-
-</td>
-<td width="300" valign="top">
-<img src="https://cnb.cool/yxxbc/images/-/git/raw/main/portraits/09-蕾丝百合-1254.png" width="300" alt="Lace Lily">
-</td>
-</tr>
-</table>
-

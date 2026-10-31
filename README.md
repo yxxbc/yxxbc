@@ -11,7 +11,9 @@ If it has a computer inside, I want to take it apart.
 
 I love version updates. Every iteration feels like a rebirth.
 
-[![Blog](https://img.shields.io/badge/Blog-yxxbc.github.io-5B8DEF?style=for-the-badge&logo=github&logoColor=white)](https://yxxbc.github.io/)
+<a href="https://yxxbc.github.io/" title="Black Cat's Blog">
+  <img src="assets/blog-card.svg" width="440" height="104" alt="Black Cat's Blog — 技术折腾与日常思考">
+</a>
 
 </td>
 <td width="300" valign="top">
